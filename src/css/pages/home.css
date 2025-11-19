@@ -92,6 +92,7 @@
   color: rgb(55, 55, 55);
 }
 .about-us-card__body {
+  position: relative;
   display: flex;
   justify-content: space-between;
   align-items: self-end;
